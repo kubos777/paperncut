@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import paperNCutLogo from './assets/paperncut-logo.png'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
